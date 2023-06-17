@@ -1,0 +1,10 @@
+import android.app.Activity;
+public Mainactivity extends Activity implements on clickListener {
+if(mservice== null){
+}
+@Override
+PublicVoid onclick(View) {
+}
+}
+}}
+}
